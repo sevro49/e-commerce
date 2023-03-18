@@ -8396,3 +8396,14 @@ textarea.form-control-lg {
 
 .btn-light i {
   color: #9da1a7; }
+
+.slider__nav {
+  max-height: 250px; }
+
+@media (min-width: 1200px) {
+  .slider__nav {
+    max-height: 300px; } }
+
+@media (min-width: 1400px) {
+  .slider__nav {
+    max-height: 350px; } }
