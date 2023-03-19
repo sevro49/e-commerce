@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.2.3",
+    "fslightbox": "^3.4.1",
     "node-sass": "^8.0.0",
     "sass": "^1.54.4"
   }
