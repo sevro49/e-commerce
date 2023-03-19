@@ -8478,3 +8478,6 @@ textarea.form-control-lg {
   max-height: 100%;
   object-fit: cover;
   cursor: zoom-in; }
+
+.checked {
+  color: orange; }
